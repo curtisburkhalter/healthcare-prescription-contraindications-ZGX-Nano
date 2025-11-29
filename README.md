@@ -324,4 +324,4 @@ Total disk space required: Approximately 2-5GB
 
 ## Support and Feedback
 
-For questions or issues with this demo, please contact Curtis Burkhalter at curtis.burkhalter@hp.com
+For questions or issues with this demo, please contact Curtis Burkhalter at curtisburkhalter@gmail.com
